@@ -22,5 +22,6 @@
   "version": "0.0.1",
   "authors": [
     "Daniel Stainback <torann@gmail.com>"
-  ]
+  ],
+  "license": "Apache-2.0"
 }
